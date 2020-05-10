@@ -1,0 +1,79 @@
+.logo-class,
+.search {
+    text-align: center;
+}
+
+#logo {
+    margin-top: 18%;
+}
+
+#top-navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+}
+
+#GoogleApps {
+    height: 30px;
+    width: 30px;
+    vertical-align: middle;
+}
+
+li a {
+    color: black;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+#Sign-in {
+    background-color: rgb(70, 131, 234);
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.15);
+    font-weight: bold;
+    font-size: 13px;
+    border-radius: 2px;
+    line-height: 28px;
+    border: 1px solid #4285f4;
+    margin-right: 10px;
+}
+
+#search-box {
+    color: rgba(0, 0, 0, 0.87);
+    font-size: 16px;
+    width: 15vw;
+    height: 95%;
+    border: none;
+    background-color: lightgray;
+}
+
+.bottom-navbar {
+    background-color: #a9b0ab;
+}
+
+#bottom-navbar-1 {
+    text-decoration: none;
+    padding: 14px 16px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+#bottom-navbar-2 {
+    position: absolute;
+    padding: 14px 16px;
+    bottom: 0px;
+    right: 0px;
+}
+
+#top-navbar-2 {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+body {
+    background-image: url("https://media1.tenor.com/images/1fde8335adabbe4b6c35d496fd08da81/tenor.gif");
+}
